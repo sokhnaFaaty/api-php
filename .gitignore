@@ -1,0 +1,15 @@
+# Logs
+*.log
+server.log
+
+# Dépendances
+/vendor/
+
+# Environnement local
+.env
+
+# Fichiers système / éditeur
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
